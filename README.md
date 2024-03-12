@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Sufyan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
@@ -6,6 +7,8 @@
 - 👯 I’m looking to collaborate on **Frontend**
 
 - ⚡ Fun fact **Book reading**
+  
+![alt](https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAyNDYzOTIsIm5iZiI6MTcxMDI0NjA5MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEyVDEyMjEzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc5YTE1ODNjOGQzN2E4ZDk0NmI0MWQzZGM3NTM5Y2RmNjIwZDM4ZTEzZjdjZmJiMDUxYjMzMGNlOTU4MTk5ZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PMocabQTRuRBP3-dPlZXRctwoxYaAqCrbogdPpq35j4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
